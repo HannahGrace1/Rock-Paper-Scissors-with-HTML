@@ -23,7 +23,6 @@ function computerPlay(computerSelection){
   return pick
 }
 
-//you can add class to p tag so then you can style the results
 // This code is for a single round of Rock Paper Scissors. Declares winner of the round.
 function singleRound(playerSelection,computerSelection){
   
@@ -160,8 +159,4 @@ const h4= document.createElement('h4')
 
  endOfGame();
 
-
-// add start button
-// get rid of inner text staying
-// format and add css
 
