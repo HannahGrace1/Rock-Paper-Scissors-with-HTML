@@ -1,0 +1,17 @@
+.playAgain{
+  margin-top: 50px;
+  margin-left: 600px;
+  justify-content: center;
+  animation: blink 5s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    color: powderblue;
+  }
+}
+}
